@@ -21,3 +21,7 @@ vehicle and station conditions.
 ## Notes
 This is an academic/personal project.
 Sensitive credentials such as API keys are not included for security reasons.
+
+## Documentation
+- [Graduation Project Report (PDF)](Smart_Charging_Algorithms_Thesis_Report.pdf)
+
